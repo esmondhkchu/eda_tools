@@ -61,3 +61,5 @@ def discrete_inspector(in_df, col_name=None):
     plt.ylabel('feature', size=15)
     plt.xlabel('density', size=15)
     sns.despine(top=True, right=True, left=True, bottom=True)
+
+##

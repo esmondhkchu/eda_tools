@@ -31,3 +31,5 @@ plt.show()
 This tool will provide a fast way to determine if a specific feature is categorical or continuous. For instance, SaleInThousands and LocationID are continuous, and the rest are categorical.
 
 [Demo Jupyter Notebook](./discrete_inspector.ipynb)
+
+--End of Discrete Inspector--
